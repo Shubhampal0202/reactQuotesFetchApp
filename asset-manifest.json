@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactQuotesFetchApp/static/css/main.2fd340d5.css",
+    "main.js": "/reactQuotesFetchApp/static/js/main.11f20a76.js",
+    "index.html": "/reactQuotesFetchApp/index.html",
+    "main.2fd340d5.css.map": "/reactQuotesFetchApp/static/css/main.2fd340d5.css.map",
+    "main.11f20a76.js.map": "/reactQuotesFetchApp/static/js/main.11f20a76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd340d5.css",
+    "static/js/main.11f20a76.js"
+  ]
+}
